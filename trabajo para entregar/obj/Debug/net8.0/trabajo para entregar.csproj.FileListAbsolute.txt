@@ -1,0 +1,14 @@
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\trabajo para entregar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\trabajo para entregar.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\trabajo para entregar.AssemblyInfo.cs
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\trabajo para entregar.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\bin\Debug\net8.0\trabajo para entregar.exe
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\bin\Debug\net8.0\trabajo para entregar.deps.json
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\bin\Debug\net8.0\trabajo para entregar.runtimeconfig.json
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\bin\Debug\net8.0\trabajo para entregar.dll
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\bin\Debug\net8.0\trabajo para entregar.pdb
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\trabajo para entregar.dll
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\refint\trabajo para entregar.dll
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\trabajo para entregar.pdb
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\trabajo para entregar.genruntimeconfig.cache
+C:\Users\ferna\source\repos\trabajo para entregar\trabajo para entregar\obj\Debug\net8.0\ref\trabajo para entregar.dll
